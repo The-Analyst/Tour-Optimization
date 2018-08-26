@@ -1,7 +1,7 @@
 ***Tour Optimization - Optimizing the route and the expenditures to help in decision making!***
 
 Team members:
-1. Apurv Garg 
+1. Apurv Garg [LinkedIn](https://www.linkedin.com/in/apurv-garg-49659274/)
 2. Gopesh Diwedi 
 3. Dj Panda
 
