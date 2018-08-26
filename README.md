@@ -6,7 +6,7 @@ Team members:
 3. Dj Panda [LinkedIn](https://www.linkedin.com/in/dibyajyoti-panda-2b7b3296/)
 
 **Description of the files:**
- 1. ```Vehicle Route Optimization.ipynb```: Contains the python code to model three different Business Objectivesusing the Pulp library of        python to solve Linear Programming. Please refer [here] (https://pythonhosted.org/PuLP/) for details
+ 1. ```Vehicle Route Optimization.ipynb```: Contains the python code to model three different Business Objectivesusing the Pulp library of        python to solve Linear Programming. Please refer [here](https://pythonhosted.org/PuLP/) for details
     
  2. ```Group14_Report.pdf```: This pdf file contains the detailed report of the project, starting with the business problem description          and background, ending with the optimim solution with an example.
  
